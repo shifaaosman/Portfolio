@@ -65,10 +65,10 @@ const Projects = () => {
             className="bg-gradient-to-r from-blue-50 to-blue-100 p-6 rounded-lg shadow-lg transform hover:scale-105 transition-all duration-300 flex flex-col justify-between"
           >
             <h3 className="text-xl font-semibold text-gray-800 mb-3">
-              E-Commerce Website
+              Quiz App
             </h3>
             <p className="text-gray-600 mb-4">
-              An e-commerce website built with React and integrated with payment gateway API.
+              Quiz App built with React.
             </p>
             <div className="flex justify-center mt-auto">
               <a 
