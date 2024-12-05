@@ -33,7 +33,7 @@ const Projects = () => {
                 rel="noopener noreferrer" 
                 className="text-blue-500 hover:underline flex items-center gap-2"
               >
-                <FaGithub /> View on GitHub
+                
               </a>
             </div>
           </div>
@@ -50,7 +50,7 @@ const Projects = () => {
             </p>
             <div className="flex justify-center mt-auto">
               <a 
-                href="https://github.com/your-username/portfolio-website" 
+                href="https://github.com/shifaaosman/Portfolio" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-blue-500 hover:underline flex items-center gap-2"
@@ -72,7 +72,7 @@ const Projects = () => {
             </p>
             <div className="flex justify-center mt-auto">
               <a 
-                href="https://github.com/your-username/e-commerce-website" 
+                href="https://github.com/shifaaosman/Quiz-App" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-blue-500 hover:underline flex items-center gap-2"

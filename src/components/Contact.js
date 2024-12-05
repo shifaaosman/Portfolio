@@ -128,7 +128,7 @@ const Contact = () => {
           <p className="text-gray-600 mb-4">Or connect with me on:</p>
           <div className="flex justify-center space-x-8">
             <a
-              href="https://github.com/your-profile"
+              href="https://github.com/shifaaosman"
               className="text-blue-500 hover:underline transition-all duration-300"
               target="_blank"
               rel="noopener noreferrer"
@@ -136,7 +136,7 @@ const Contact = () => {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/shifa-osman | "
               className="text-blue-500 hover:underline transition-all duration-300"
               target="_blank"
               rel="noopener noreferrer"
